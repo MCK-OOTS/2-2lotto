@@ -12,8 +12,8 @@
 
 공동 : 화면 설계, 필요기능 선정, DB설계
 # 프로젝트 정보
-- IDE : **JAVA SWING**
-- 개발 언어 : **JAVA**
+- IDE : **Apach NetBeans**
+- 개발 언어 : **JAVA, JAVA SWING**
 - DB : **MySQL**
 - 개발 기간 : **약 1개월**
 
